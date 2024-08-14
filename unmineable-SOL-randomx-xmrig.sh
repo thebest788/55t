@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:BYScTaFLCAE7zZPcLJc3xrSdes4sHfLKMKshHrEaUkBH.unmineable_worker_chienly -p x 
